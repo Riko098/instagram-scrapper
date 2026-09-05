@@ -1,0 +1,27 @@
+# Dados de login e cookies
+instagram_cookies.json
+
+# Dados scrapeados
+output/
+*.json
+
+# Dependências
+node_modules/
+package-lock.json
+
+# Navegador Chrome
+chrome/
+
+# Arquivos de progresso
+AVANCAR.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
